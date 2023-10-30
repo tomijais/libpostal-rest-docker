@@ -3,4 +3,4 @@ set -e
 
 export GOPATH=/libpostal/workspace
 
-go install github.com/johnlonganecker/libpostal-rest@v1.0.0
+go install github.com/johnlonganecker/libpostal-rest@v1.1.0
